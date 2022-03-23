@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- le titre de la page -->
+    <title>Idegraphx</title>
+<!-- icon de l'onglet -->
+<link rel="shortcut icon" href="idegraphx.png.png">
+</head>
+<body>
+    <section> 
+        <div>
+            <h1>bienvenue</h1>
+            <p>texte basique. <em> voici mon texte </em><strong> Idegraphx</strong></p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero dicta, esse amet deleniti ex aperiam voluptatem at animi, illum, eligendi fugiat mollitia? Eaque facilis, ad delectus sapiente, vero necessitatibus illum praesentium deserunt omnis voluptatum consectetur atque voluptatem quos libero deleniti veritatis consequatur quasi cumque dignissimos id reiciendis corporis rem. Eius, architecto. Iusto et fugit porro repudiandae. Quia autem neque iste laudantium, quod facilis repudiandae porro nihil nisi facere nemo, soluta exercitationem eum nesciunt. Et rem adipisci eaque fugit atque aliquam placeat. Eius debitis similique excepturi perferendis molestiae et labore asperiores dolorem? Officiis, atque placeat quis error ea asperiores praesentium architecto!</p>
+        </div><
+            <div>
+                <h2> Photo titre 
+                   <img src="pub-idegraph.jpg" height="200" alt="photo-pub">
+                </h2>
+            </div>
+            <h3>liste
+                <ul>
+                    <li> ul = ordered list</li>
+                    <li> ul = ordered list</li>
+                    <li> ul = ordered list</li>
+                    <li> ul = ordered list</li>
+                    <li> ul = ordered list</li>
+                </ul>
+                <ol>
+                    <li> order list</li>
+                    <li> order list</li>
+                    <li> order list</li>
+                    <li> order list</li>
+                    <li> order list</li>
+                    <li> order list</li>
+                </ol>
+            </h3>
+    </section>
+    
+</body>
+</html>
